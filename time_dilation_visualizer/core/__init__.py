@@ -1,0 +1,1 @@
+"""Core mathematical engine for universal change calculations."""

@@ -1,0 +1,22 @@
+# Mu-Theory Requirements
+# Universal Change Framework Dependencies
+
+# Core scientific computing
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: Interactive visualizations
+# ipywidgets>=8.0.0
+# plotly>=5.0.0
+
+# Optional: Jupyter notebook support
+# jupyter>=1.0.0
+# notebook>=6.4.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0

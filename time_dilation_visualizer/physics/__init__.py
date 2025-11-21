@@ -1,0 +1,1 @@
+"""Physics domain implementations for different scenarios."""
