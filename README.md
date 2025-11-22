@@ -63,9 +63,19 @@ python simple_3d_black_hole.py
 
 ## 📖 Documentation
 
+### Core Theory
 - **[Full Academic Paper](UNIVERSAL_CHANGE_THEORY_FULL_PAPER.md)** - Complete theoretical framework
+- **[Theoretical Derivations](THEORETICAL_DERIVATIONS.md)** - Rigorous derivations from GR, QM, thermodynamics
 - **[Technical Documentation](UNIVERSAL_CHANGE_THEORY_DOCUMENTATION.md)** - Implementation details
-- **[API Reference](time_dilation_visualizer/)** - Code documentation
+
+### Validation & Transparency
+- **[Validation & Testing](VALIDATION_AND_TESTING.md)** - Comprehensive validation against known physics
+- **[Limitations & Future Work](LIMITATIONS_AND_FUTURE_WORK.md)** - Honest assessment of gaps and challenges
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 5 minutes
+
+### Code Reference
+- **[API Reference](time_dilation_visualizer/)** - Core library documentation
+- **[Simulation Scripts](/)** - Ready-to-run examples
 
 ## 🔬 Theory Overview
 
@@ -159,7 +169,9 @@ If you use this work in your research, please cite:
 - 🕳️ **Black Hole Insights**: μ = r/(2r_s) reveals singularity nature
 - 📊 **3D Visualizations**: Interactive spacetime structure plots
 - 🔬 **Testable**: Clear experimental predictions
-- 📖 **Well-Documented**: Complete academic paper included
+- 📖 **Rigorous Documentation**: Complete derivations and validation
+- 🔍 **Transparent**: Honest assessment of limitations
+- 🧪 **Open Science**: All code and data available
 
 ## 🔮 Future Directions
 
