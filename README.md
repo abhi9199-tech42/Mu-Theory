@@ -42,6 +42,25 @@ python black_hole_simulation.py
 
 # 3D visualization
 python simple_3d_black_hole.py
+
+# NEW: Light speed boundary
+python light_speed_simulation.py
+
+# NEW: Quantum vacuum fluctuations
+python quantum_vacuum_simulation.py
+
+# NEW: Wormhole physics
+python wormhole_simulation.py
+```
+
+### Run Tests
+
+```bash
+# Run all tests
+python run_all_tests.py
+
+# Or use pytest directly
+pytest tests/ -v
 ```
 
 ## 📊 Simulation Results
